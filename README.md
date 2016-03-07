@@ -1,0 +1,2 @@
+# Miner
+Qt-based miner
